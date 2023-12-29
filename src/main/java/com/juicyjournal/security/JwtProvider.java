@@ -1,6 +1,6 @@
 package com.juicyjournal.security;
 
-import com.programming.techie.springngblog.exception.SpringBlogException;
+import com.juicyjournal.exceptions.SpringBlogException;
 import io.jsonwebtoken.*;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.userdetails.User;

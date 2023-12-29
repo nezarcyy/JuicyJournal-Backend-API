@@ -1,6 +1,6 @@
 package com.juicyjournal.config;
 
-import com.programming.techie.springngblog.security.JwtAuthenticationFilter;
+import com.juicyjournal.security.JwtAuthenticationFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.http.HttpMethod;
